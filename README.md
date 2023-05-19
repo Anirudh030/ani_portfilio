@@ -1,2 +1,2 @@
-# ani_portfilio
+# Anirudh Varadarajan
 this is my Engineering portfolio
